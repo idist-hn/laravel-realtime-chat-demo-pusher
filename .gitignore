@@ -1,0 +1,9 @@
+/node_modules
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env.dusk.*
+npm-debug.log
+.idea
+.env
